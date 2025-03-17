@@ -1,21 +1,17 @@
-# 👋 Hola mi nombre es Jose Rios
-|Lenguaje|Habilidad|
-|-|-|
-|html|0|
-|css|0|
-|javascritp|0|
-|bootstrap|0|
-# 🙍‍♂️Info
-Hola soy alumno del curso, soy programador y empresario puedes visitar la pagina oficial en [lanominamasfaci.com.mx](http://www.lanominamasfacil.com.mx/. Para ponerse en contacto escriban a [geussepe2004@hotmail.com](mailto:lanominamasfacil@yahoo.com.mx)
+# 🙍‍♂️ Jose Rios
+* Desarrollador y distribuidor de software administrativo
 
-Algunos de mis intereses:
-- cine
-- hacer deporte
-- programar
-- ver noticias
+[email](mailto:geussepe2004@hotmail.com)
 
-Mis top de comida
-1. Pollo frito
-2. Sopa de pasta
+# 🧓 Experiecia
+Programador de software administrativo desde 1995.
+Creador de empresa de desarrollo interwin software.
 
-![](https://i.gifer.com/X5NZ.gif)
+- Desarrollo de sistema de contabilidad.
+- Desarrollo de sistema de nomina.
+- Desarrollo de sistema de facturacion electonica.
+- Desarrollo de sistemas de control Administrativo.
+- **Tecnologia usada: XBase, Pascal, C#**
+
+# 👨‍🎓Educacion
+**Universidad Autonoma de Aguascalientes** Ingenieria en sistemas computacional
